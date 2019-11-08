@@ -18,6 +18,7 @@ Plug 'tpope/vim-surround'
 
 " Linting
 Plug 'w0rp/ale'
+Plug 'posva/vim-vue'
 
 " Productivity
 Plug 'valloric/youcompleteme'
