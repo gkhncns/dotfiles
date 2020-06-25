@@ -1,0 +1,14 @@
+{
+  "editor.minimap.enabled": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": true,
+  "workbench.editor.showTabs": true,
+  "window.zoomLevel": -1,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "SF Mono",
+  "workbench.colorTheme": "GitHub Dark",
+  "explorer.compactFolders": false,
+  "explorer.autoReveal": false,
+}

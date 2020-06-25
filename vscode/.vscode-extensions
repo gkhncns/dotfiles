@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+for extension in "dbaeumer.vscode-eslint" \
+  "eamodio.gitlens" \
+  "GitHub.github-vscode-theme" \
+  "msjsdiag.debugger-for-chrome" \
+  "ms-azuretools.vscode-docker" \
+  "whtouche.vscode-js-console-utils" \
+  "wix.vscode-import-cost"; do
+  code --install-extension "${extension}" &> /dev/null
+done
+echo "Done. Some of these extensions require a restart to use." 
